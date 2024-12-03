@@ -1,0 +1,2 @@
+# -Low-Power-Approximate-Unsigned-and-signed-Multipliers-with-Configurable-Error-Recovery
+• Designed and developed low-power approximate unsigned and signed multipliers with configurable  error recovery.  • Implemented the multipliers to reduce power consumption while maintaining acceptable accuracy.  • Utilized configurable error recovery to optimize the trade-off between power consumption and  accuracy. 
